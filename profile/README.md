@@ -12,20 +12,20 @@ A web application which allows to report anonymously about your high-tech salary
 ## 📦 Repositories
 
 ### Frontend
-**[Salary Reports UI](https://github.com/Anonymous-Salary-Reports/salary-reports-ui)**
-React + TypeScript with modern UI/UX
+**[Salary Reports UI](https://github.com/Anonymous-Salary-Reports/salary-reports-ui)**  
+React + TypeScript with modern UI/UX  
 **Tech**: React, TypeScript, inline CSS, React Query  
 **Features**: Responsive design, real-time updates, optimistic UI, secured routes with authentication
 
 ### Backend Services
-**[Salary Service](https://github.com/Anonymous-Salary-Reports/salary-reports-salary-service)**
-Core business logic to view and report salaries and maintain roles and role categories which each salary has.
-**Tech**: Node.js, NestJS, MongoDB, JWT token validation
+**[Salary Service](https://github.com/Anonymous-Salary-Reports/salary-reports-salary-service)**  
+Core business logic to view and report salaries and maintain roles and role categories which each salary has.  
+**Tech**: Node.js, NestJS, MongoDB, JWT token validation  
 **Features**: RESTful endpoints, data validation, error handling
 
-**[Auth Service](https://github.com/Anonymous-Salary-Reports/salary-reports-auth-service)**
-Authentication and authorization microservice
-**Tech**: Node.js, NestJS, JWT, OAuth
+**[Auth Service](https://github.com/Anonymous-Salary-Reports/salary-reports-auth-service)**  
+Authentication and authorization microservice  
+**Tech**: Node.js, NestJS, JWT, OAuth  
 **Features**: User management, issue and refresh JWT tokens, role-based access, role maintenance
 
 ## 🚧 Roadmap
