@@ -9,13 +9,7 @@ A web application which allows to report anonymously about your high-tech salary
 - One backend microservice handles core logic for the domains salary, role and role category, and another handles authentication.
 - The reason I chose these frameworks is that they're very well suited for modern web applications handling REST communication, and I wanted to gain some experience with Node.js
 
-## 📦 Repositories
-
-### Frontend
-**[Salary Reports UI](https://github.com/Anonymous-Salary-Reports/salary-reports-ui)**  
-React + TypeScript with modern UI/UX  
-**Tech**: React, TypeScript, inline CSS, React Query  
-**Features**: Responsive design, real-time updates, optimistic UI, secured routes with authentication
+## 📦 Repositories  
 
 ### Backend Services
 **[Salary Service](https://github.com/Anonymous-Salary-Reports/salary-reports-salary-service)**  
@@ -27,6 +21,12 @@ Core business logic to view and report salaries and maintain roles and role cate
 Authentication and authorization microservice  
 **Tech**: Node.js, NestJS, JWT, OAuth  
 **Features**: User management, issue and refresh JWT tokens, role-based access, role maintenance
+
+### Frontend
+**[Salary Reports UI](https://github.com/Anonymous-Salary-Reports/salary-reports-ui)**  
+React + TypeScript with modern UI/UX  
+**Tech**: React, TypeScript, inline CSS, React Query  
+**Features**: Responsive design, real-time updates, optimistic UI, secured routes with authentication
 
 ## 🚧 Roadmap
 Planned improvements:
