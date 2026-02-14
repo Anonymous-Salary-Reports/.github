@@ -3,7 +3,7 @@ A web application which allows to report anonymously about your high-tech salary
 
 ## 🎯 About This Project
 - A distributed full-stack web application written in TypeScript
-- There are currently two backend microservices using NestJS and Node.js frameworks and MongoDB database
+- There are currently two backend microservices using NestJS framework, Node.js runtime and a MongoDB database
 - Frontend is using React framework
 - The application has role-based (user/admin) secure authentication using OAuth, JWT, Passport.
 - One backend microservice handles core logic for the domains salary, role and role category, and another handles authentication.
