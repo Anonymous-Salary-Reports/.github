@@ -40,4 +40,4 @@ Planned improvements:
 I'm Idan, a full stack software engineer. This project showcases my ability to design and build full-stack applications using modern technologies and best practices.
 
 **Connect with me**:
-💼 [LinkedIn]([link](https://www.linkedin.com/in/idan-cohen-164592122/)) | 📧 [Email](mailto:idan.cohen.5d@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/idan-cohen-164592122/) | 📧 [Email](mailto:idan.cohen.5d@gmail.com)
